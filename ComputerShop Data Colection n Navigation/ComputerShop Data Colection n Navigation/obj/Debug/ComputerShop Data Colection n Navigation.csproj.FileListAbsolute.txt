@@ -1,0 +1,144 @@
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Lappy Top\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Lappy Top\Documents\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.AssemblyReference.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Benjie Acquiatan\Downloads\Compressed\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.AssemblyReference.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\Benjie Acquiatan\Downloads\Compressed\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.StartUp.resources
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.StartUp.resources
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\Project\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Loading.resources
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Loading.resources
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.StartUp.resources
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\admin\Downloads\Project\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Loading.resources
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.StartUp.resources
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\admin\Downloads\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb

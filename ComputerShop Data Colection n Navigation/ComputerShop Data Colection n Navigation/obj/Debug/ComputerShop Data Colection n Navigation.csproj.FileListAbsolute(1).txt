@@ -1,0 +1,27 @@
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\OneDrive\Documents\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe.config
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Guna.UI2.dll
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Form1.resources
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop_Data_Colection_n_Navigation.Properties.Resources.resources
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.GenerateResource.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.csproj.CopyComplete
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.exe
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\obj\Debug\ComputerShop Data Colection n Navigation.pdb
+C:\Users\vince\Downloads\DATABASE PROJECT 2023\ComputerShop Data Colection n Navigation\ComputerShop Data Colection n Navigation\bin\Debug\Antipolo Computer Shops.mdb
